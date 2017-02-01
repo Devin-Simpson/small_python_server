@@ -1,0 +1,33 @@
+#graphArea {
+  position: absolute;
+  left: 80px;
+  right: 80px;
+  top: 40px;
+  bottom: 80px;
+}
+
+.dygraph-legend > span { display: none; }
+.dygraph-legend > span.highlight { display: inline; }
+
+.visbilityButton{
+	float: left;
+}
+
+.controlPanel{
+	position: absolute;
+    top: 680px;
+    width: 100%;
+}
+
+#controlArea{
+	position: absolute;
+    top: 700px;
+    width: 100%;
+}
+
+.dygraph-legend{
+	background-color: #CCC;
+	width: 75px;
+	padding-left:10px;
+	border-style: solid;
+}

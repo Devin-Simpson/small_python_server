@@ -1,0 +1,7 @@
+// note: no spaces between the value and the = sign
+
+user=root
+password=password
+database=LatentDirichlet
+host=localhost
+portnumber=8000
